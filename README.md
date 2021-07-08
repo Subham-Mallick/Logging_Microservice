@@ -1,1 +1,1 @@
-# banking_microservice
+# Logging Service
